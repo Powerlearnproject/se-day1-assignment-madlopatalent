@@ -17,10 +17,7 @@ Identify and describe at least three key milestones in the evolution of software
 
 Mastering complexity -  simplifying and managing complex situations, projects, or systems.
 Mastering process - a technical and creative process that involves equalization, compression, and limiting.
-Mastering machine -gaining a deep understanding of the principles, algorithms, and techniques involved in developing and applying machine learning models
-
-Identify and describe at least three key milestones in the evolution of software engineering.
-
+Mastering machine -gaining a deep understanding of the principles, algorithms, and techniques involved in developing and applying machine learning models.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
