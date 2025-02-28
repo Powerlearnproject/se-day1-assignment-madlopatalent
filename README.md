@@ -11,7 +11,7 @@ Explain what software engineering is and discuss its importance in the technolog
  - it ensures software performs as expected without bias especially for critical applications like healthcare ,finance. 
 - it helps to optimize developer workflow while maintaining high quality standards.
 - it ensures that the system can handle an increased load without affecting performance.
- - implement protection practice like authentication, authorization and encryption to secure users information.
+- implement protection practice like authentication, authorization and encryption to secure users information.
    
 Identify and describe at least three key milestones in the evolution of software engineering.
 
