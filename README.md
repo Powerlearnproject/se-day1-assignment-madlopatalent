@@ -62,7 +62,6 @@ Project Manager - assembles and lead the software development team.
  - deliver the complete software to the client and regularly check its performance.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-
 1) Software Developer:
 Role: Creates and maintains software.
 Responsibilities: Writing code, implementing features, fixing bugs.
